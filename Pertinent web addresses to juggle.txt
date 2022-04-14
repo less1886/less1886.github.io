@@ -1,0 +1,86 @@
+https://less1886.github.io
+https://okgeothermal.org
+http://127.0.0.1:4000/
+
+http://bryanboone.xyz
+
+https://github.com/less1886/less1886.github.io
+
+<iframe 
+	width="560" 
+	height="315" 
+	src="https://www.youtube.com/embed/90X5NJleYJQ" 
+	title="YouTube video player" 
+	frameborder="0" 
+	allow="accelerometer;
+		autoplay;
+		clipboard-write;
+		encrypted-media;
+		gyroscope;
+		picture-in-picture" 
+	allowfullscreen
+></iframe>
+
+
+<div class="embed-container">
+	<iframe
+		src="https://www.youtube.com/embed/{{ include.id }}"
+		width="720"
+		height="480"
+		frameborder="0"
+		allowfullscreen="">
+	</iframe>
+  </div>
+
+Rick Astley - Never Gonna Give You Up
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Strong Bad Email #58 - Dragon
+https://www.youtube.com/watch?v=90X5NJleYJQ
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/90X5NJleYJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- <div class="embed-container">
+	<iframe
+		width="720"
+		height="480"
+		src="https://www.youtube.com/embed/{{ include.id }}"
+		frameborder="0"
+		allowfullscreen>
+	</iframe>
+  </div> -->
+
+<!-- <iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/90X5NJleYJQ" 
+  title="YouTube video player"
+  frameborder="0" 
+  allowfullscreen>
+</iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/90X5NJleYJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

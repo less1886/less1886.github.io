@@ -1,9 +1,9 @@
-<div class="embed-container">
+  <div class="embed-container">
 	<iframe
-		src="https://www.youtube.com/embed/{{ include.id }}"
-		width="700"
+		width="720"
 		height="480"
+		src= "{{ https://www.youtube.com/embed/ | append: include.id }}"
 		frameborder="0"
-		allowfullscreen="">
+		allowfullscreen>
 	</iframe>
   </div>
