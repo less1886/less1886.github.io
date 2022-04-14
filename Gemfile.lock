@@ -282,7 +282,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll (~> 3.9.0)
   jekyll-feed (~> 0.6)
   jekyll-kw-loremipsum
   kramdown-parser-gfm
