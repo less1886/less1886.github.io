@@ -4,6 +4,7 @@
 
 layout: default
 title: Home
+permalink: /Rundown/
 ---
 
 # Project Topic and Rundown
