@@ -4,6 +4,8 @@
 
 layout: default
 title: Home
+permalink: /FAQs/
+
 ---
 # FAQS
 
