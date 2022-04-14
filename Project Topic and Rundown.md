@@ -6,4 +6,4 @@ layout: default
 title: Home
 ---
 
-# Index.md
+# Project Topic and Rundown

@@ -5,5 +5,5 @@
 layout: default
 title: Home
 ---
+# FAQS
 
-# Index.md
